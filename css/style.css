@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+/* nav bar starts  */
+
+#panda-nav-list {
+    margin-right: 15px;
+}
+
+
+#panda-nav {
+    font-size: 16px;
+    color: #707070;
+}
