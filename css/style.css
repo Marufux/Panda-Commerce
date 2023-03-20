@@ -20,7 +20,7 @@
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
 }
 
-@media (max-width: 393px) {
+@media (max-width: 400px) {
     .form-control {
         max-width: 350px;
         margin-top: 20px;
