@@ -25,4 +25,14 @@
         max-width: 350px;
         margin-top: 20px;
     }
+
+
+
+    #email {
+        flex-wrap: wrap;
+    }
+
+    #email input {
+        max-width: 200px;
+    }
 }
